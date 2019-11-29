@@ -1,0 +1,9 @@
+C:\TV\Proyectos NET 3.0\ogr2ogrGUI\ogr2ogrGUI\bin\Release\ogr2ogrGUI.exe
+C:\TV\Proyectos NET 3.0\ogr2ogrGUI\ogr2ogrGUI\bin\Release\ogr2ogrGUI.pdb
+C:\TV\Proyectos NET 3.0\ogr2ogrGUI\ogr2ogrGUI\bin\Release\ogr2ogrGUI.xml
+C:\TV\Proyectos NET 3.0\ogr2ogrGUI\ogr2ogrGUI\obj\Release\ogr2ogrGUI.frmGUI.resources
+C:\TV\Proyectos NET 3.0\ogr2ogrGUI\ogr2ogrGUI\obj\Release\ogr2ogrGUI.Resources.resources
+C:\TV\Proyectos NET 3.0\ogr2ogrGUI\ogr2ogrGUI\obj\Release\ogr2ogrGUI.vbproj.GenerateResource.Cache
+C:\TV\Proyectos NET 3.0\ogr2ogrGUI\ogr2ogrGUI\obj\Release\ogr2ogrGUI.exe
+C:\TV\Proyectos NET 3.0\ogr2ogrGUI\ogr2ogrGUI\obj\Release\ogr2ogrGUI.xml
+C:\TV\Proyectos NET 3.0\ogr2ogrGUI\ogr2ogrGUI\obj\Release\ogr2ogrGUI.pdb

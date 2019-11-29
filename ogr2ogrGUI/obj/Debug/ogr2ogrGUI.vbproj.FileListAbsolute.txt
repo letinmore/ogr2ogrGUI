@@ -1,0 +1,14 @@
+C:\TV\Proyectos NET 3.0\ogr2ogrGUI\ogr2ogrGUI\bin\Debug\ogr2ogrGUI.exe
+C:\TV\Proyectos NET 3.0\ogr2ogrGUI\ogr2ogrGUI\bin\Debug\ogr2ogrGUI.pdb
+C:\TV\Proyectos NET 3.0\ogr2ogrGUI\ogr2ogrGUI\bin\Debug\ogr2ogrGUI.xml
+C:\TV\Proyectos NET 3.0\ogr2ogrGUI\ogr2ogrGUI\obj\Debug\ogr2ogrGUI.frmGUI.resources
+C:\TV\Proyectos NET 3.0\ogr2ogrGUI\ogr2ogrGUI\obj\Debug\ogr2ogrGUI.Resources.resources
+C:\TV\Proyectos NET 3.0\ogr2ogrGUI\ogr2ogrGUI\obj\Debug\ogr2ogrGUI.vbproj.GenerateResource.Cache
+C:\TV\Proyectos NET 3.0\ogr2ogrGUI\ogr2ogrGUI\obj\Debug\ogr2ogrGUI.exe
+C:\TV\Proyectos NET 3.0\ogr2ogrGUI\ogr2ogrGUI\obj\Debug\ogr2ogrGUI.xml
+C:\TV\Proyectos NET 3.0\ogr2ogrGUI\ogr2ogrGUI\obj\Debug\ogr2ogrGUI.pdb
+C:\TV\Proyectos NET 3.0\ogr2ogrGUI\ogr2ogrGUI\obj\Debug\ogr2ogrGUI.vbprojResolveAssemblyReference.cache
+C:\TV\Proyectos NET 3.0\ogr2ogrGUI\ogr2ogrGUI\bin\Debug\ogr2ogrGUI.exe.manifest
+C:\TV\Proyectos NET 3.0\ogr2ogrGUI\ogr2ogrGUI\bin\Debug\ogr2ogrGUI.application
+C:\TV\Proyectos NET 3.0\ogr2ogrGUI\ogr2ogrGUI\obj\Debug\ogr2ogrGUI.exe.manifest
+C:\TV\Proyectos NET 3.0\ogr2ogrGUI\ogr2ogrGUI\obj\Debug\ogr2ogrGUI.application
