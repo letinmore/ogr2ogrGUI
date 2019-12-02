@@ -43,4 +43,9 @@ TODO:
 -(Eventually) Add support for more database engines
 
 
+Changes/issues
+
+You can raise an issues here, in the repo, explaining what is the issue, what were you trying to do and the previous steps that led to the current situation. You can also ask for new features to be included in future releases.
+
+
 Last modified: November 28, 2019
